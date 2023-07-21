@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Kemal</h1>
 <h3 align="center">From Turkey</h3>
 
-[![MasterHead](https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif)
+![MasterHead](https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif)
 
 
 

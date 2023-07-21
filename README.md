@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Kemal</h1>
 <h3 align="center">From Turkey</h3>
 
-![MasterHead](https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif)
+![MasterHead](https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifkemal&label=Profile%20views&color=0e75b6&style=flat" alt="arifkemal" /> </p>

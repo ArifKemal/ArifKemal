@@ -4,7 +4,7 @@
 [![MasterHead](https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifkemal&label=Profile%20views&color=0e75b6&style=flat" alt="arifkemal" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ake1611" target="blank"><img src="https://img.shields.io/twitter/follow/ake1611?logo=twitter&style=for-the-badge" alt="ake1611" /></a> </p>
 

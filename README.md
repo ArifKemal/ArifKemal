@@ -19,11 +19,6 @@ I am passionate about solving real-world problems using **AI, deep learning, and
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=rose)
 
-### 📌 Featured Projects
-
-- 🔍 **[Financial Forecasting AI](https://github.com/arifkemal/fintech-ai)**: AI-powered stock market prediction model.
-- 💬 **[AI Chatbot](https://github.com/arifkemal/chatbot)**: A natural language processing-based chatbot.
-- 🌐 **[Personal Blog](https://github.com/arifkemal/personal-blog)**: A web development and content-sharing platform.
 
 ### 📫 Connect with Me
 

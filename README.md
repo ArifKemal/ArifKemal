@@ -13,9 +13,9 @@ I am passionate about solving real-world problems using *AI, deep learning, and 
 
 ###  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifkemal&show_icons=true&theme=rose)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifkemal&show_icons=true&theme=codeSTACKr)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=rose)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=codeSTACKr)
 
 
 <h3 align="left">Connect with me:</h3>

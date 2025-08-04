@@ -13,7 +13,7 @@ I am passionate about solving real-world problems using *AI, deep learning, and 
 
 ###  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifkemal&show_icons=true&theme=codeSTACKr)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArifKemal&show_icons=true&theme=STACKr)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=codeSTACKr)
 

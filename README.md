@@ -1,31 +1,81 @@
-##  Hi, I'm Arif Kemal!
+<div align="center">
 
-*AI & Data Science Enthusiast* 🧠💡
+### AI & Data Science Enthusiast · Financial Forecasting · Deep Learning
 
-I am passionate about solving real-world problems using *AI, deep learning, and financial forecasting*. I love working on innovative projects and learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+scratch;Deep+Learning+%7C+Financial+Forecasting+%7C+AI;Turning+raw+data+into+actionable+insights" alt="Typing SVG" />
 
-###  Technologies & Tools
+<img src="https://komarev.com/ghpvc/?username=arifkemal&label=Profile+Views&color=0d1117&style=flat-square&labelColor=161b22" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</div>
 
-###  GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArifKemal&show_icons=true&theme=codeSTACKr)
+## About Me
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=codeSTACKr)
+I'm **Arif Kemal Erdönmez**, a developer focused on the intersection of **artificial intelligence**, **deep learning**, and **financial data science**. I build systems that extract meaning from complex, noisy data — from market signals to model architectures.
 
+- 🔭 Currently working on **AI-powered monitoring and analysis pipelines**
+- 📈 Interested in **macroeconomic forecasting** and quantitative analysis
+- 🛠️ I enjoy building end-to-end systems: from data ingestion to inference to delivery
+- 🌱 Always exploring: LLMs, time-series modeling, and cloud-native ML infrastructure
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ake1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ake1611" height="30" width="40" /></a>    
-<a href="https://www.linkedin.com/in/arif-kemal-erdönmez-8b3055220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif kemal erdönmez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22227496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22227496" height="30" width="40" /></a>
-<a href="https://instagram.com/_arifkemall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arifkemall" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arif162003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arif162003" height="30" width="40" /></a>
-</p>
+---
 
+## Tech Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifkemal&label=Profile%20views&color=0e75b6&style=flat" alt="arifkemal" /> </p>
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ArifKemal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArifKemal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arif-kemal-erdönmez-8b3055220/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ake1611)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/22227496)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/_arifkemall)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/arif162003)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with curiosity. Improved with data.</sub>
+</div>

@@ -12,12 +12,14 @@
 
 ## About Me
 
-I'm **Arif Kemal Erdönmez**, a developer focused on the intersection of **artificial intelligence**, **deep learning**, and **financial data science**. I build systems that extract meaning from complex, noisy data — from market signals to model architectures.
+I'm **Arif Kemal Erdönmez**, and my work sits at the intersection of **quantitative finance** and **Python development**. I'm interested in how financial markets can be modeled, analyzed, and visualized through code — from options pricing to fixed-income risk to macro event studies.
 
-- 🔭 Currently working on **AI-powered monitoring and analysis pipelines**
-- 📈 Interested in **macroeconomic forecasting** and quantitative analysis
-- 🛠️ I enjoy building end-to-end systems: from data ingestion to inference to delivery
-- 🌱 Always exploring: LLMs, time-series modeling, and cloud-native ML infrastructure
+Most of my projects follow a similar pattern: take a concept from finance theory, implement it from the ground up in Python, and turn it into something interactive and readable — not just a formula on a page.
+
+- 📐 Building quantitative tools around **derivatives, yield curves, and factor models**
+- 📊 Interested in **options market structure** — IV surfaces, GEX, and pricing anomalies
+- 🔬 Enjoy translating academic finance (Fama-French, DV01, Black-Scholes) into working code
+- 🌱 Learning by building — each project is a way to go deeper into a topic
 
 ---
 
@@ -26,23 +28,25 @@ I'm **Arif Kemal Erdönmez**, a developer focused on the intersection of **artif
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-**AI / ML**
+**Quant & Data**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=8CAAE6)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0d1117?style=for-the-badge&logo=python&logoColor=white)
 
-**Infrastructure & Tools**
+**Visualization & Apps**
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![yfinance](https://img.shields.io/badge/yfinance-0d1117?style=for-the-badge&logo=yahoo&logoColor=6001D2)
 
 ---
 
@@ -77,5 +81,5 @@ I'm **Arif Kemal Erdönmez**, a developer focused on the intersection of **artif
 ---
 
 <div align="center">
-<sub>Built with curiosity. Improved with data.</sub>
+<sub>Markets are noisy. Models help.</sub>
 </div>

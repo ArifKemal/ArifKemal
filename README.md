@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Options+%7C+Yield+Curves+%7C+Factor+Models;Turning+finance+theory+into+working+code;From+IV+surfaces+to+macro+event+studies" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=arifkemal&label=Profile+Views&color=0d1117&style=flat-square&labelColor=161b22" />
+
 
 </div>
 

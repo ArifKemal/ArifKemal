@@ -60,7 +60,7 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 
 <br/>
 
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArifKemal&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" />
 
 </div>
 
@@ -73,7 +73,7 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arif-kemal-erdönmez-8b3055220/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ake1611)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/_arifkemall)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/mentalnotfound)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/arif162003)
 
 </div>
 

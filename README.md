@@ -60,7 +60,7 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArifKemal&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+
 
 </div>
 

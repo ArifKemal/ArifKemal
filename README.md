@@ -1,8 +1,10 @@
 <div align="center">
 
-### AI & Data Science Enthusiast · Financial Forecasting · Deep Learning
+# Arif Kemal Erdönmez
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+scratch;Deep+Learning+%7C+Financial+Forecasting+%7C+AI;Turning+raw+data+into+actionable+insights" alt="Typing SVG" />
+### Quantitative Finance · Python · Financial Data Analysis
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Options+%7C+Yield+Curves+%7C+Factor+Models;Turning+finance+theory+into+working+code;From+IV+surfaces+to+macro+event+studies" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=arifkemal&label=Profile+Views&color=0d1117&style=flat-square&labelColor=161b22" />
 
@@ -54,13 +56,13 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ArifKemal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ArifKemal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&cache_seconds=3600" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkemal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifKemal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=3600" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArifKemal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=ArifKemal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 

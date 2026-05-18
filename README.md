@@ -56,13 +56,11 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ArifKemal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&cache_seconds=3600" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifKemal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=3600" />
+<img src="https://streak-stats.demolab.com?user=ArifKemal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ArifKemal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArifKemal&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
@@ -74,7 +72,6 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arif-kemal-erdönmez-8b3055220/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ake1611)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/22227496)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/_arifkemall)
 [![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/arif162003)
 

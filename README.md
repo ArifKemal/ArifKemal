@@ -56,7 +56,7 @@ Most of my projects follow a similar pattern: take a concept from finance theory
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArifKemal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+
 
 <br/>
 
